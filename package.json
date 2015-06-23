@@ -1,0 +1,27 @@
+{
+  "name": "TextSupport",
+  "version": "0.0.0",
+  "description": "TextSupport ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfala/TextSupport.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfala/TextSupport/issues"
+  },
+  "homepage": "https://github.com/dfala/TextSupport",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.0",
+    "firebase": "^2.2.7",
+    "http": "0.0.0",
+    "twilio": "^2.2.1"
+  }
+}
